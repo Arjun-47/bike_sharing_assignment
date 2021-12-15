@@ -1,6 +1,6 @@
 # Boom Bike Sharing Assignment
-> Multi-Linear Regression analysis on Bike Sharing dataset to build a stable model to determine change in total rental bikes.
-
+> Building Linear Regression model on Bike Sharing dataset by performing multiple-linear regression analysis to determine explain the change in total rental bikes.
+ 
 
 ## Table of Contents
 * [General Info](#general-information)
